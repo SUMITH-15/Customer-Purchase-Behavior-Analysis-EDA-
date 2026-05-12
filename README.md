@@ -71,4 +71,4 @@ This project demonstrates how data analysis can uncover valuable business insigh
 
 ## 👤 Author
 
-**Sumith Mani**
+**Sumith**
